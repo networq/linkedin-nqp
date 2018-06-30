@@ -1,0 +1,7 @@
+name: profile
+labelPlural: Profiles
+labelSingular: Profile
+
+fields:
+  name:
+    type: string

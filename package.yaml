@@ -1,0 +1,12 @@
+name: networq:linkedin
+description: LinkedIn types
+license: MIT
+
+dependencies:
+  networq:core: latest
+
+widgets:
+  linkedinProfileProperties:
+    type: networq:linkedin:profile
+    hook: properties
+    label: LinkedIn properties
