@@ -10,3 +10,7 @@ widgets:
     type: networq:linkedin:profile
     hook: properties
     label: LinkedIn properties
+  linkedinCompanyProperties:
+    type: networq:linkedin:company
+    hook: properties
+    label: LinkedIn properties

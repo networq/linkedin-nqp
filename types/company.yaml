@@ -1,0 +1,7 @@
+name: company
+labelPlural: Companies
+labelSingular: Company
+
+fields:
+  name:
+    type: string
